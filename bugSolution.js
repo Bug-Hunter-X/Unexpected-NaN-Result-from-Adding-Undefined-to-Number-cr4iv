@@ -1,0 +1,1 @@
+function foo(a,b){if(b===undefined){b=0;}return a+b;}console.log(foo(1,undefined));
